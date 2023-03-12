@@ -38,6 +38,6 @@ def delete_text_from_files(directory, text_to_delete):
 
 
 # Example usage:
-directory = 'C:/Users/jack0/Music/.car music'
-text_to_delete = '[SPOTIFY-DOWNLOADER.COM] '
+directory = '/example/directory/test'
+text_to_delete = 'example text to delete'
 delete_text_from_files(directory, text_to_delete)
